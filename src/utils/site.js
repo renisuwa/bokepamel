@@ -1,5 +1,5 @@
 export const url = 'https://bokepamel.pages.dev';
-export const nama = 'Bokep Mantu';
+export const nama = 'Bokep Amel';
 export const desk = 'Video Bokep Indo Terbaru Bocil Ngentot Jilbab Colmek Smp Viral Sma Tobrut Tante';
 export const terbit = '2025-02-17T00:03:13Z';
 
